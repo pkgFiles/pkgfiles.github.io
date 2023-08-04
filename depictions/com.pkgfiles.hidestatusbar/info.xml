@@ -1,0 +1,27 @@
+<package>
+	<id>com.pkgfiles.hidestatusbar</id>
+	<name>HideStatusBar</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion(1.0.0+), firmware(14.0+)</package>
+	</dependencies>
+	<shortDescription>Hides the Statusbar</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>Lockscreen Sample</description>
+			<image>HideStatusBar_Lockscreen.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Homescreen Sample</description>
+			<image>HideStatusBar_Homescreen.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>1.0 - Initial Release</change>
+	</changelog>
+</package>

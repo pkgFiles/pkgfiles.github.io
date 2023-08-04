@@ -1,0 +1,63 @@
+Package: com.pkgfiles.hidestatusbar
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/com.pkgfiles.hidestatusbar_1.0_iphoneos-arm.deb
+Size: 31946
+MD5sum: 202ee4d08bb3767aa14c1896de3bb41a
+SHA1: be26c110da43bf35b19da60fd32bfa277cd4bd6e
+SHA256: 42abc3d6de6da94b29944888219550a346bca1d808007bdc954994cbdabe945e
+Description: Hides the Statusbar
+Name: HideStatusBar
+Author: pkgFiles
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidestatusbar
+
+Package: com.pkgfiles.hidestatusbar
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0)
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/com.pkgfiles.hidestatusbar_1.0_iphoneos-arm64.deb
+Size: 22200
+MD5sum: 12726a85e7b4e9776df428565ecad347
+SHA1: 4b9096b3da3fac50d6a37b711c856aeac9743f77
+SHA256: 17a25eb66bacd86bdc8e25ff3df5859b27e1ed87e4269d8e14202b749d3f313d
+Description: Hides the Statusbar
+Name: HideStatusBar
+Author: pkgFiles
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidestatusbar
+
+Package: com.pkgfiles.hidedockbg
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/com.pkgfiles.hidedockbg_1.0_iphoneos-arm.deb
+Size: 21126
+MD5sum: 306c0b6b7a1e495b2b697706b180f70d
+SHA1: 6373c1711a4972fb085d9af9f2cead8c1729755d
+SHA256: 85961c29de28ce846b8f1990eca4dd714f6042cd84ada0420fd5985958ed1bf9
+Description: Hides the Dock Background
+Name: HideDockBG
+Author: pkgFiles
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidedockbg
+
+Package: com.pkgfiles.hidedockbg
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0)
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/com.pkgfiles.hidedockbg_1.0_iphoneos-arm64.deb
+Size: 21130
+MD5sum: 25c494016604b79b9f65347f62761e77
+SHA1: c02605fa32dc0531d6b1f003492a4913c3ef6eff
+SHA256: 28bc6c436e0c2a9ccd2079cb1fc7785119f32015648a87cc15a7d61c058361cd
+Description: Hides the Dock Background
+Name: HideDockBG
+Author: pkgFiles
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidedockbg

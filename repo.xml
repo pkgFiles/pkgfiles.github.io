@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>@pkgFiles</name>
+			<url>https://twitter.com/pkgFiles</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>@pkgFiles</name>
+			<url>https://www.reddit.com/user/pkgFiles</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</footerlinks>
+</repo>
