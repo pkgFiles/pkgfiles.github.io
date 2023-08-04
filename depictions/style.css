@@ -41,7 +41,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-right: 10px;
 }
 
-@media (prefers-color-scheme: dark) {
+
     body {
         background-image: url('https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/BackgroundImage.png');
         background-size: contain;
@@ -55,11 +55,13 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         border-style: inset;
         background-color: #000000;
     }
+
     .card-body {
         border-radius: 3px;
         mask-mode: luminance;
         background-color: #000000;
     }
+
     .jumbotron {
         border: 5px;
         border-color: #ae037e;
@@ -81,4 +83,3 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
         background-color: #1f1f1f;
     }
 
-}
