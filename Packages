@@ -11,6 +11,7 @@ SHA1: be26c110da43bf35b19da60fd32bfa277cd4bd6e
 SHA256: 42abc3d6de6da94b29944888219550a346bca1d808007bdc954994cbdabe945e
 Description: Hides the Statusbar
 Name: HideStatusBar
+Icon: https://pkgfiles.github.io/icons/TweakIcon.png
 Author: pkgFiles
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidestatusbar
 
@@ -27,37 +28,40 @@ SHA1: 4b9096b3da3fac50d6a37b711c856aeac9743f77
 SHA256: 17a25eb66bacd86bdc8e25ff3df5859b27e1ed87e4269d8e14202b749d3f313d
 Description: Hides the Statusbar
 Name: HideStatusBar
+Icon: https://pkgfiles.github.io/icons/TweakIcon.png
 Author: pkgFiles
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidestatusbar
 
-Package: com.pkgfiles.hidedockbg
+Package: com.pkgfiles.roundednotifi
 Version: 1.0
 Section: Tweaks
 Maintainer: pkgFiles
-Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0), com.ginsu.comet
 Architecture: iphoneos-arm
-Filename: ./debs/iphoneos-arm/com.pkgfiles.hidedockbg_1.0_iphoneos-arm.deb
-Size: 21126
-MD5sum: 306c0b6b7a1e495b2b697706b180f70d
-SHA1: 6373c1711a4972fb085d9af9f2cead8c1729755d
-SHA256: 85961c29de28ce846b8f1990eca4dd714f6042cd84ada0420fd5985958ed1bf9
-Description: Hides the Dock Background
-Name: HideDockBG
+Filename: ./debs/iphoneos-arm/com.pkgfiles.roundednotifi_1.0_iphoneos-arm.deb
+Size: 146674
+MD5sum: 932a24531280d45755f2aeed2565a2fc
+SHA1: c38536f3ec03f20109815b4c00d418d08cd4a3ee
+SHA256: c814871d5b8cb25ecb493399184184dbaafd87a18df512d6bbe6e12b04e21aa7
+Description: Give your Notifiaction Center awesome, rounded Corners!
+Name: RoundedNotifi
+Icon: https://pkgfiles.github.io/icons/Icon-RoundedNotifi.png
 Author: pkgFiles
-Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidedockbg
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.roundednotifi
 
-Package: com.pkgfiles.hidedockbg
+Package: com.pkgfiles.roundednotifi
 Version: 1.0
 Section: Tweaks
 Maintainer: pkgFiles
-Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0), com.ginsu.comet
 Architecture: iphoneos-arm64
-Filename: ./debs/iphoneos-arm64/com.pkgfiles.hidedockbg_1.0_iphoneos-arm64.deb
-Size: 21130
-MD5sum: 25c494016604b79b9f65347f62761e77
-SHA1: c02605fa32dc0531d6b1f003492a4913c3ef6eff
-SHA256: 28bc6c436e0c2a9ccd2079cb1fc7785119f32015648a87cc15a7d61c058361cd
-Description: Hides the Dock Background
-Name: HideDockBG
+Filename: ./debs/iphoneos-arm64/com.pkgfiles.roundednotifi_1.0_iphoneos-arm64.deb
+Size: 146804
+MD5sum: 164ef402b3539557c325be5149e37741
+SHA1: cd99ada3065c74364c5bb21ccc023b1711643128
+SHA256: 6efe3f686707a7bafe69f1313bf3fd39155da35a565b9871586c434b48490a6c
+Description: Give your Notifiaction Center awesome, rounded Corners!
+Name: RoundedNotifi
+Icon: https://pkgfiles.github.io/icons/Icon-RoundedNotifi.png
 Author: pkgFiles
-Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidedockbg
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.roundednotifi
