@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>dev.theos.orion(1.0.0+), firmware(14.0+), com.ginsu.comet</package>
 	</dependencies>
-	<shortDescription>Give your Notifiaction Center awesome, rounded Corners!</shortDescription>
+	<shortDescription>Give your Notification Center awesome, rounded Corners!</shortDescription>
 	<screenshots>
 		<screenshot>
 			<image>RoundedNotifi_Screenshot.png</image>

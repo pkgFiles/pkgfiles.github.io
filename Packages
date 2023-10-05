@@ -39,11 +39,11 @@ Maintainer: pkgFiles
 Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0), com.ginsu.comet
 Architecture: iphoneos-arm
 Filename: ./debs/iphoneos-arm/com.pkgfiles.roundednotifi_1.0_iphoneos-arm.deb
-Size: 146674
-MD5sum: 932a24531280d45755f2aeed2565a2fc
-SHA1: c38536f3ec03f20109815b4c00d418d08cd4a3ee
-SHA256: c814871d5b8cb25ecb493399184184dbaafd87a18df512d6bbe6e12b04e21aa7
-Description: Give your Notifiaction Center awesome, rounded Corners!
+Size: 147106
+MD5sum: dd580a0792ab15c9214e52c439ee10ac
+SHA1: b0d1329e0dafaad1329423002d225e460ad30e3e
+SHA256: a7bdaab5e06e91b08af1a364c6704da8c48f986295863b39c52d3299eed20848
+Description: Give your Notification Center awesome, rounded Corners!
 Name: RoundedNotifi
 Icon: https://pkgfiles.github.io/icons/Icon-RoundedNotifi.png
 Author: pkgFiles
@@ -56,11 +56,11 @@ Maintainer: pkgFiles
 Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0), com.ginsu.comet
 Architecture: iphoneos-arm64
 Filename: ./debs/iphoneos-arm64/com.pkgfiles.roundednotifi_1.0_iphoneos-arm64.deb
-Size: 146804
-MD5sum: 164ef402b3539557c325be5149e37741
-SHA1: cd99ada3065c74364c5bb21ccc023b1711643128
-SHA256: 6efe3f686707a7bafe69f1313bf3fd39155da35a565b9871586c434b48490a6c
-Description: Give your Notifiaction Center awesome, rounded Corners!
+Size: 147568
+MD5sum: cb239aaa521c7376cde84cc25eb879c8
+SHA1: 98e181dc147d8ab0c11160bff77d1eb4982ca7b4
+SHA256: b4729aed121725c7ffccf6b6610b8b43898f8d11dc6526c20e0b15f33150b7ff
+Description: Give your Notification Center awesome, rounded Corners!
 Name: RoundedNotifi
 Icon: https://pkgfiles.github.io/icons/Icon-RoundedNotifi.png
 Author: pkgFiles
