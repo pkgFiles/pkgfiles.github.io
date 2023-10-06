@@ -1,7 +1,7 @@
 <package>
 	<id>com.pkgfiles.roundednotifi</id>
 	<name>RoundedNotifi</name>
-	<version>1.0</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
@@ -17,6 +17,7 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
+		<change>1.0-1 - Fixed Rootfull</change>
 		<change>1.0 - Initial Release</change>
 	</changelog>
 </package>

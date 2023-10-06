@@ -33,16 +33,16 @@ Author: pkgFiles
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.hidestatusbar
 
 Package: com.pkgfiles.roundednotifi
-Version: 1.0
+Version: 1.0-1
 Section: Tweaks
 Maintainer: pkgFiles
 Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0), com.ginsu.comet
 Architecture: iphoneos-arm
-Filename: ./debs/iphoneos-arm/com.pkgfiles.roundednotifi_1.0_iphoneos-arm.deb
-Size: 147106
-MD5sum: dd580a0792ab15c9214e52c439ee10ac
-SHA1: b0d1329e0dafaad1329423002d225e460ad30e3e
-SHA256: a7bdaab5e06e91b08af1a364c6704da8c48f986295863b39c52d3299eed20848
+Filename: ./debs/iphoneos-arm/com.pkgfiles.roundednotifi_1.0-1_iphoneos-arm.deb
+Size: 107234
+MD5sum: 7814638e6c1f4bf45f119bae3d28e506
+SHA1: 931a5a36c4993f550892fa67efe510204e69a4f2
+SHA256: 379fa4eecbda128393d1b513c06503547e0f6c21d20e5551e5eb45e6f2a9b158
 Description: Give your Notification Center awesome, rounded Corners!
 Name: RoundedNotifi
 Icon: https://pkgfiles.github.io/icons/Icon-RoundedNotifi.png
@@ -50,16 +50,16 @@ Author: pkgFiles
 Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.roundednotifi
 
 Package: com.pkgfiles.roundednotifi
-Version: 1.0
+Version: 1.0-1
 Section: Tweaks
 Maintainer: pkgFiles
 Depends: dev.theos.orion (>= 1.0.0), firmware (>=14.0), com.ginsu.comet
 Architecture: iphoneos-arm64
-Filename: ./debs/iphoneos-arm64/com.pkgfiles.roundednotifi_1.0_iphoneos-arm64.deb
-Size: 147568
-MD5sum: cb239aaa521c7376cde84cc25eb879c8
-SHA1: 98e181dc147d8ab0c11160bff77d1eb4982ca7b4
-SHA256: b4729aed121725c7ffccf6b6610b8b43898f8d11dc6526c20e0b15f33150b7ff
+Filename: ./debs/iphoneos-arm64/com.pkgfiles.roundednotifi_1.0-1_iphoneos-arm64.deb
+Size: 107356
+MD5sum: 19eb8f3de3fa9d50b8e6a3bc653a6505
+SHA1: 685f15ff60ebbcf43fa372470f793b03201088cf
+SHA256: f6e58e14b19271007cf143361bcc2623d680dc854bc2f3d253c2d887a6b5246e
 Description: Give your Notification Center awesome, rounded Corners!
 Name: RoundedNotifi
 Icon: https://pkgfiles.github.io/icons/Icon-RoundedNotifi.png
