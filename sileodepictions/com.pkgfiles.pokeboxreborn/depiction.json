@@ -1,0 +1,198 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/Banners/PokeboxBanner.png",
+	"tintColor": "#D71818",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Lockscreen",
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/1.png"
+						},
+						{
+							"accessibilityText": "Homescreen/Apps",
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/2.png"
+						},
+						{
+							"accessibilityText": "Settings",
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/3.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Lockscreen",
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/1.png"
+							},
+							{
+								"accessibilityText": "Homescreen/Apps",
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/2.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/2.png"
+							},
+							{
+								"accessibilityText": "Settings",
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/3.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/depictions/com.pkgfiles.pokeboxreborn/screenshots/3.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Pokébox Reborn\nPokébox Reborn is the successor of the original Pokébox tweak, made by @Skittyblock.\nIt brings a Pokémon-esque style to your notifications, featuring dark mode, animated text, and more!"
+				},
+				{
+					"title": "Check out the source code here!",
+					"action": "https://github.com/pkgFiles",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "More Informations",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Latest Version",
+					"text": "1.1.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Tweak Released",
+					"text": "10/5/2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 15.0 - 16.7.5",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "pkgFiles",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Follow me on Twitter",
+					"action": "https://x.com/pkgFiles",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Fixed dependencies dont get installed with the tweak.\n\r- This should fix that some people was never be able to use this tweak",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17/05/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Fixed notification size on iOS 15 devices\n\r- Fixed the realignment of some Labels by rewriting the mechanism for their color change\n\r- Improved performance\n\r- Removed unused code for the animations as they work fine",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17/05/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Fixed images from having the wrong insets on iOS 15\n\r- Added autoresizing of images, line-by-line\n\r- Removed the Offset Slider as the values are to high and cause visual glitches\n\r- Cleaning up some parts of the code",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17/05/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Fixed rootful support",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 13/05/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 10/05/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

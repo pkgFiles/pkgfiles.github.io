@@ -1,0 +1,84 @@
+body {
+    margin: 1em;
+    background-color: rgb(0, 0, 0);
+    background-image: url('https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/BackgroundImage.png');
+    background-size: contain;
+    color: white;
+}
+
+.card {
+    border-radius: 3px;
+    margin-bottom: 1em;
+    background-color: #000000;
+}
+
+.thumbnail {
+    margin-bottom: 2em;;
+}
+
+.list-group {
+    margin-bottom: 2em;
+}
+
+.disable-hover {
+    pointer-events: none;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 17px 15px;
+    display: block;
+    color: #4f89bb !important;
+    text-align: left;
+}
+
+.link-item:hover {
+    border: 1px solid #dddddd;
+    background-color: #f5f5f5;
+}
+
+html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+    background-color: #ffffff;
+}
+
+html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+    background-color: #f5f5f5;
+}
+
+.fa {
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+/* Visual Style */
+body,html,#master {
+    height:105%; 
+ }
+
+.card-header {
+    border-bottom: 1px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: inset;
+    background-color: #000000;
+}
+
+.jumbotron {
+    background-color: #000000;
+}
+
+.list-group-item {
+    border-radius: 1px;
+    background-color: #000000;
+    border-color:  #000000;
+}
+
+html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+    background-color: #1f1f1f;
+}
+    
+html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+    background-color: #1f1f1f;
+}

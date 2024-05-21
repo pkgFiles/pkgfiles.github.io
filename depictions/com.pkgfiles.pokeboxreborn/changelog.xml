@@ -1,0 +1,29 @@
+<changelog>
+	<changes>
+		<version>1.1.1</version>
+		<change>Fixed dependencies dont get installed with the tweak</change>
+		<change>This should fix that some people was never be able to use this tweak</change>
+	</changes>
+	<changes>
+		<version>1.1</version>
+		<change>Fixed notification size on iOS 15 devices</change>
+		<change>Fixed the realignment of some Labels by rewriting the mechanism for their color change</change>
+		<change>Improved performance</change>
+		<change>Removed unused code for the animations as they work fine</change>
+	</changes>
+	<changes>
+		<version>1.0.2</version>
+		<change>Fixed images from having the wrong insets on iOS 15</change>
+		<change>Added autoresizing of images, line-by-line</change>
+		<change>Removed the Offset Slider as the values are to high and cause visual glitches</change>
+		<change>Cleaning up some parts of the code</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Fixed rootful support</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
