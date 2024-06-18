@@ -68,7 +68,7 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "1.1.1",
+					"text": "2.0",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -111,13 +111,29 @@
 			"tabname": "Changelog",
 			"views": [
 				{
+					"title": "2.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Added Velvet2 compatibility layer\n\r- Fixed the alignment of the title which can cause overlapping\n\r- Readded the offset slider which works fine since the autoresizing function\n\r- Removed assets which are no longer needed\n\r- Bugfixes and improvements",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/05/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "- Fixed dependencies dont get installed with the tweak.\n\r- This should fix that some people was never be able to use this tweak",
+					"markdown": "- Fixed dependencies dont get installed with the tweak\n\r- This should fix that some people was never be able to use this tweak",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
