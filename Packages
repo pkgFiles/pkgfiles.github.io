@@ -1,4 +1,40 @@
 Package: com.pkgfiles.pokeboxreborn
+Version: 2.0.1
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/Pokebox/com.pkgfiles.pokeboxreborn_2.0.1_iphoneos-arm.deb
+Size: 97394
+MD5sum: 6ebb4967f40211ec906b658fb1efe3e7
+SHA1: 65fab181c76e8e084cd7eafd97f21f68702ab171
+SHA256: 27c864c7b0465c290382ceb93538239b028d6988c09f38a4f9247a1d269fc305
+Description: Pokémon style notifications!
+Name: Pokébox Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 15.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.pokeboxreborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.pokeboxreborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/PokeboxReborn.png
+
+Package: com.pkgfiles.pokeboxreborn
+Version: 2.0.1
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/Pokebox/com.pkgfiles.pokeboxreborn_2.0.1_iphoneos-arm64.deb
+Size: 97524
+MD5sum: bf6c7c63e13e6402e65694cea93a4137
+SHA1: 83b960da32adfe16e5c36b7bad07c2c70e04a837
+SHA256: 125fd11f41ed90be6865bbd73d43e696e0b43ad2b30529f8aa826f9f3d35ec65
+Description: Pokémon style notifications!
+Name: Pokébox Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 15.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.pokeboxreborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.pokeboxreborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/PokeboxReborn.png
+
+Package: com.pkgfiles.pokeboxreborn
 Version: 2.0
 Section: Tweaks
 Maintainer: pkgFiles

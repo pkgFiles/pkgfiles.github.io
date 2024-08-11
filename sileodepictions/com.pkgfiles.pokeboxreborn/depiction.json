@@ -68,7 +68,7 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "2.0",
+					"text": "2.0.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -110,6 +110,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "2.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixing a potential memory leak caused by incorrect invalidation of timers",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 11/08/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0",
 					"useBoldText": true,

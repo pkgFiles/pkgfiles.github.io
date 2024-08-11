@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.0.1</version>
+		<change>Fixing a potential memory leak caused by incorrect invalidation of timers</change>
+	</changes>
+	<changes>
 		<version>2.0</version>
 		<change>Added Velvet2 compatibility layer</change>
 		<change>Fixed the alignment of the title which can cause overlapping</change>
