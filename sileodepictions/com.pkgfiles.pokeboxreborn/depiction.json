@@ -117,7 +117,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Fixing a potential memory leak caused by incorrect invalidation of timers",
+					"markdown": "- Fixing a potential memory leak caused by incorrect invalidation of timers",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
