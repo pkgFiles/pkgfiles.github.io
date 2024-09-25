@@ -1,0 +1,31 @@
+<package>
+	<id>com.pkgfiles.mobilemeadowreborn</id>
+	<name>MobileMeadow Reborn</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion(1.0.0+), firmware(15.0+)</package>
+	</dependencies>
+	<shortDescription>Transform your phone into a peaceful meadow, where vibrant flowers bloom across your apps and graceful birds soar freely over your screen. Let nature take over your digital world, bringing a sense of tranquility and beauty to every tap and swipe.</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>Homescreen</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Apps</description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Preferences</description>
+			<image>3.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
