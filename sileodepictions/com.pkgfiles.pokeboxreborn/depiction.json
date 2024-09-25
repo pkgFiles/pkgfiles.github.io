@@ -73,12 +73,12 @@
 				},
 				{
 					"title": "Tweak Released",
-					"text": "10/5/2024",
+					"text": "10/05/2024",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 15.0 - 16.7.5",
+					"text": "iOS 15.0 - 16.7.10",
 					"class": "DepictionTableTextView"
 				},
 				{

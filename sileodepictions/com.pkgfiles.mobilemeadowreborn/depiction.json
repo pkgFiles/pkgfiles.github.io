@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/assets/Banners/MobileMeadowRebornBanner.png",
-	"tintColor": "#D71818",
+	"tintColor": "#3DBDF8",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -52,7 +52,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Pokébox Reborn\nPokébox Reborn is the successor of the original Pokébox tweak, made by @Skittyblock.\nIt brings a Pokémon-esque style to your notifications, featuring dark mode, animated text, and more!"
+					"markdown": "## MobileMeadow Reborn\nMobileMeadow Reborn is the successor of the original MobileMeadow tweak, made by @pixelomer.\nIt transforms your phone into a peaceful meadow, where vibrant flowers bloom across your apps and graceful birds soar freely over your screen. Let nature take over your digital world, bringing a sense of tranquility and beauty to every tap and swipe."
 				},
 				{
 					"title": "Check out the source code here!",
@@ -68,17 +68,17 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "2.0.1",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Tweak Released",
-					"text": "10/5/2024",
+					"text": "25/09/2024",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 15.0 - 16.7.5",
+					"text": "iOS 14.0 - 16.7.10",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -111,102 +111,6 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "2.0.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "- Fixed a potential memory leak caused by incorrect invalidation of timers",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 11/08/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "2.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "- Added Velvet2 compatibility layer\n\r- Fixed the alignment of the title which can cause overlapping\n\r- Readded the offset slider which works fine since the autoresizing function\n\r- Removed assets which are no longer needed\n\r- Bugfixes and improvements",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 18/06/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.1.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "- Fixed dependencies dont get installed with the tweak\n\r- This should fix that some people was never be able to use this tweak",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/05/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "- Fixed notification size on iOS 15 devices\n\r- Fixed the realignment of some Labels by rewriting the mechanism for their color change\n\r- Improved performance\n\r- Removed unused code for the animations as they work fine",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/05/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "- Fixed images from having the wrong insets on iOS 15\n\r- Added autoresizing of images, line-by-line\n\r- Removed the Offset Slider as the values are to high and cause visual glitches\n\r- Cleaning up some parts of the code",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17/05/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.0.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "- Fixed rootful support",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 13/05/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
 					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -218,7 +122,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 10/05/2024</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25/09/2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

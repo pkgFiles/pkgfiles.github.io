@@ -4,10 +4,16 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/Banners/PokeboxBanner.png",
-        "title": "Pokébox Reborn",
-        "package": "com.pkgfiles.pokeboxreborn",
+        "url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/assets/Banners/MobileMeadowRebornBanner.png",
+        "title": "MobileMeadow Reborn",
+        "package": "com.pkgfiles.mobilemeadowreborn",
         "hideShadow": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/Banners/PokeboxBanner.png",
+      "title": "Pokébox Reborn",
+      "package": "com.pkgfiles.pokeboxreborn",
+      "hideShadow": false
     }
   ]
 }
