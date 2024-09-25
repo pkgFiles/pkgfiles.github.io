@@ -8,9 +8,9 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>dev.theos.orion(1.0.0+), firmware(15.0+)</package>
+		<package>dev.theos.orion(1.0.0+), firmware(14.0+)</package>
 	</dependencies>
-	<shortDescription>Transform your phone into a peaceful meadow, where vibrant flowers bloom across your apps and graceful birds soar freely over your screen. Let nature take over your digital world, bringing a sense of tranquility and beauty to every tap and swipe.</shortDescription>
+	<shortDescription>Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.</shortDescription>
 	<screenshots>
 		<screenshot>
 			<description>Homescreen</description>
@@ -26,6 +26,6 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Transform your phone into a peaceful meadow, where vibrant flowers bloom across your apps and graceful birds soar freely over your screen. Let nature take over your digital world, bringing a sense of tranquility and beauty to every tap and swipe.</change>
 	</changelog>
 </package>
