@@ -117,7 +117,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "- Fixed an issue to ensure that only applications with enabled notifications shows up\n\r- Added a option to disable birds in applications\n\r- Bugfixes & improvements",
+					"markdown": "- Fixed an issue to ensure that only applications with enabled notifications shows up\n\r- Added a option to disable birds in applications\n\r- Bugfixes & improvements\n\rThanks to @wes.hamster for testing this version.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
