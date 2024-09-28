@@ -3,7 +3,7 @@
 		<version>1.0.1</version>
 		<change>Fixed an issue to ensure that only applications with enabled notifications shows up</change>
 		<change>Added a option to disable birds in applications</change>
-		<change>Bugfixes & improvements</change>
+		<change>Bugfixes and improvements</change>
 	</changes>
 	<changes>
 		<version>1.0</version>
