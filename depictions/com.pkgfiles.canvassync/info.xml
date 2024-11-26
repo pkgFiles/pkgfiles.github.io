@@ -1,0 +1,31 @@
+<package>
+	<id>com.pkgfiles.canvassync</id>
+	<name>CanvasSync</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion(1.0.0+), firmware(15.0+)</package>
+	</dependencies>
+	<shortDescription>Display artwork or Spotify Canvas as wallpaper.</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>Spotify/Lockscreen</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Lockscreen/Homescreen</description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Preferences</description>
+			<image>3.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Showcase album artwork or Spotify Canvas as your device wallpaper. CanvasSync transforms your home or lock screen by dynamically displaying the currently playing track's visuals, creating a personalized and immersive listening experience.</change>
+	</changelog>
+</package>
