@@ -68,7 +68,7 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "2.0.1",
+					"text": "2.0.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -110,6 +110,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "2.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Fixed preferences for Jailbreaks with symlinks\n\r- Removed unnecessary files",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 10/12/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.0.1",
 					"useBoldText": true,

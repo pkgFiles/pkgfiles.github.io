@@ -1,3 +1,75 @@
+Package: com.pkgfiles.pokeboxreborn
+Version: 2.0.2
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/Pokebox/com.pkgfiles.pokeboxreborn_2.0.2_iphoneos-arm.deb
+Size: 96514
+MD5sum: 6def6fc7888ea53e8b5d13e88e55e629
+SHA1: 5f8ca9fc40d0b75bc0740423922dcf87af00b8f1
+SHA256: 0956cd1f69a4efab1d83be845ef400236c920a523f24db82d044f1c9bd330996
+Description: Pokémon style notifications!
+Name: Pokébox Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 15.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.pokeboxreborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.pokeboxreborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/PokeboxReborn.png
+
+Package: com.pkgfiles.pokeboxreborn
+Version: 2.0.2
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/Pokebox/com.pkgfiles.pokeboxreborn_2.0.2_iphoneos-arm64.deb
+Size: 96588
+MD5sum: 5a9694b82cff2f558d9114f9e8fa1b64
+SHA1: a4de04ef5103f9dca30810e25139445c101ad319
+SHA256: afaa64bb1b69511fd264451e75a8dbf7c21d317e49b232c5523889acbda4ae61
+Description: Pokémon style notifications!
+Name: Pokébox Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 15.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.pokeboxreborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.pokeboxreborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/PokeboxReborn.png
+
+Package: com.pkgfiles.mobilemeadowreborn
+Version: 1.0.2
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/MobileMeadow/com.pkgfiles.mobilemeadowreborn_1.0.2_iphoneos-arm.deb
+Size: 2407420
+MD5sum: a5743e6f40af33146e78389f68b4d20a
+SHA1: 1a423e5411c4d819a3951cd66be6321dc30e96ea
+SHA256: 07db2c94b467f137b322268a5c3892528366f86b6836d3abe18a84d03d61a8a5
+Description: Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.
+Name: MobileMeadow Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 14.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.mobilemeadowreborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.mobilemeadowreborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/MobileMeadowReborn.png
+
+Package: com.pkgfiles.mobilemeadowreborn
+Version: 1.0.2
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/MobileMeadow/com.pkgfiles.mobilemeadowreborn_1.0.2_iphoneos-arm64.deb
+Size: 2407422
+MD5sum: aa2778c394a90b08cab3b07afc140418
+SHA1: 54831521e16595a7afd69446e0b519de361cdabd
+SHA256: e0fca346b635be892de000fe6da712a501b1a390ecf0f248a4cba326a8c966ae
+Description: Turn your phone into a meadow. Add flowers to your apps. Let birds fly on your screen.
+Name: MobileMeadow Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 14.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.mobilemeadowreborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.mobilemeadowreborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/MobileMeadowReborn.png
+
 Package: com.pkgfiles.mobilemeadowreborn
 Version: 1.0.1
 Section: Tweaks
