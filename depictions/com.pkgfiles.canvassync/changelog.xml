@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Fixed a bug where the tweak would not function if the official Spotify app was not installed</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
