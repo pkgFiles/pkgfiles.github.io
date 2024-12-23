@@ -1,0 +1,134 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/assets/Banners/CanvasSyncBanner.png",
+	"tintColor": "#372D23",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Spotify/Lockscreen",
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/1.png"
+						},
+						{
+							"accessibilityText": "Lockscreen/Homescreen",
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/2.png"
+						},
+						{
+							"accessibilityText": "Settings",
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/3.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Spotify/Lockscreen",
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/1.png"
+							},
+							{
+								"accessibilityText": "Lockscreen/Homescreen",
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/2.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/2.png"
+							},
+							{
+								"accessibilityText": "Settings",
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/3.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.canvassync/screenshots/3.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## CanvasSync\nShowcase album artwork or Spotify Canvas as your device wallpaper.\nCanvasSync transforms your home or lock screen by dynamically displaying the currently playing track's visuals, creating a personalized and immersive listening experience."
+				},
+				{
+					"title": "Check out the source code here!",
+					"action": "https://github.com/pkgFiles",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "More Informations",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Latest Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Tweak Released",
+					"text": "23/12/2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 15.0 - 16.7.10",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "pkgFiles",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Follow me on Twitter",
+					"action": "https://x.com/pkgFiles",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Initial Release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 23/12/2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
