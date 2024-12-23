@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/assets/Banners/CanvasSyncBanner.png",
-	"tintColor": "#372D23",
+	"tintColor": "#846955",
 	"tabs": [
 		{
 			"tabname": "Details",
