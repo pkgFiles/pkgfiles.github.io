@@ -68,7 +68,7 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "1.0.1",
+					"text": "1.0.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -110,6 +110,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Added an option for AOD (Always-On Display)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 05/01/2025</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0.1",
 					"useBoldText": true,
