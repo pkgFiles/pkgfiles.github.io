@@ -1,0 +1,31 @@
+<package>
+	<id>com.pkgfiles.magicword</id>
+	<name>MagicWord</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion(1.0.0+), firmware(15.0+)</package>
+	</dependencies>
+	<shortDescription>A themeable unlock error alarm inspired by Jurassic Park.</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>Lockscreen (Theme: Classic)</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Lockscreen (Theme: Jurassic)</description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Preferences</description>
+			<image>3.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>This themeable unlock error alarm adds a touch of cinematic flair, notifying you with iconic vibes whenever an incorrect passcode is entered. Whether you’re a fan of the suspenseful, high-tech world of Jurassic Park or just looking for a stylish way to personalize your device, this tweak combines functionality with a nostalgic aesthetic.</change>
+	</changelog>
+</package>
