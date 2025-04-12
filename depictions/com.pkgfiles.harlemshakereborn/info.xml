@@ -1,0 +1,31 @@
+<package>
+	<id>com.pkgfiles.harlemshakereborn</id>
+	<name>HarlemShake Reborn</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion(1.0.0+), firmware(14.0+)</package>
+	</dependencies>
+	<shortDescription>You probably thought the Harlem Shake was over, didn't you?</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>Lockscreen</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Homescreen</description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Preferences</description>
+			<image>3.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>This tweak brings the iconic Harlem Shake meme back to life – with a twist. Icons on your screen flip, spin, and dance wildly to the legendary tune, just like it’s 2013 all over again. Inspired by the viral craze, this app adds a touch of chaos and fun to your UI. Perfect for nostalgic vibes, party demos, or just confusing your friends.</change>
+	</changelog>
+</package>
