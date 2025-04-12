@@ -12,18 +12,18 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Lockscreen",
-							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/1.png"
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/1.png"
 						},
 						{
 							"accessibilityText": "Homescreen",
-							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/2.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/2.png"
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/2.png"
 						},
 						{
 							"accessibilityText": "Settings",
-							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/3.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/3.png"
+							"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/3.png"
 						}
 					],
 					"ipad": {
@@ -32,18 +32,18 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Lockscreen",
-								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/1.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/1.png"
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/1.png"
 							},
 							{
 								"accessibilityText": "Homescreen",
-								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/2.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/2.png"
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/2.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/2.png"
 							},
 							{
 								"accessibilityText": "Settings",
-								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/3.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.mobilemeadowreborn/screenshots/3.png"
+								"url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/3.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/depictions/com.pkgfiles.harlemshakereborn/screenshots/3.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
