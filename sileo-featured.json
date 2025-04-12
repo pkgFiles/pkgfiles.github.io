@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/assets/Banners/CanvasSyncBanner.png",
-        "title": "CanvasSync",
-        "package": "com.pkgfiles.canvassync",
+        "url": "https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/refs/heads/main/assets/Banners/HarlemShakeRebornBanner.png",
+        "title": "HarlemShake Reborn",
+        "package": "com.pkgfiles.harlemshakereborn",
         "hideShadow": false
     }
   ]
