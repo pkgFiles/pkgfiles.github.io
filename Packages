@@ -1,3 +1,39 @@
+Package: com.pkgfiles.harlemshakereborn
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/HarlemShake/com.pkgfiles.harlemshakereborn_1.0_iphoneos-arm.deb
+Size: 7734444
+MD5sum: f19ef42fb899d3ba784822c023cfcfa9
+SHA1: 7060d1fa9f2e10c87e22415dba3d8fffce96d27d
+SHA256: bb54bf3871233e8fb38bcc6c344432552b8245adee5f0186b562b1d82556eb91
+Description: You probably thought the Harlem Shake was over, didn't you?
+Name: HarlemShake Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 14.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
+
+Package: com.pkgfiles.harlemshakereborn
+Version: 1.0
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/HarlemShake/com.pkgfiles.harlemshakereborn_1.0_iphoneos-arm64.deb
+Size: 7733810
+MD5sum: 65b35c595dff74033baa93a631227bf5
+SHA1: 44728b5958e88e4be4d5000aaa748abfd82fcd57
+SHA256: b9e43eaac95c27617f7df443d885a4acc4ce045d970589ff972b2744b53077e6
+Description: You probably thought the Harlem Shake was over, didn't you?
+Name: HarlemShake Reborn
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 14.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.harlemshakereborn/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.harlemshakereborn
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/HarlemShakeReborn.png
+
 Package: com.pkgfiles.canvassync
 Version: 1.0.2
 Section: Tweaks
