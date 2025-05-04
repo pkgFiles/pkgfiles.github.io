@@ -68,7 +68,7 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "1.0.2",
+					"text": "1.0.3",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -110,6 +110,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.0.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Added Support for newer Spotify Versions (9.0.40+)\n\r- Bugfixes and improvements",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 04/05/2025</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0.2",
 					"useBoldText": true,

@@ -1,3 +1,39 @@
+Package: com.pkgfiles.canvassync
+Version: 1.0.3
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm
+Filename: ./debs/iphoneos-arm/CanvasSync/com.pkgfiles.canvassync_1.0.3_iphoneos-arm.deb
+Size: 12331516
+MD5sum: d2094a68400b7de5efbce9f0a4bea52a
+SHA1: 80db92ce37c2ccfeddcde9bae7c0cc1e10d5bd31
+SHA256: 6ee1a3d3b8f115872ea856a22ff4ce90e94b3b79ce9d92b8c87ab037e38c8b6a
+Description: Display artwork or Spotify Canvas as wallpaper.
+Name: CanvasSync
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 15.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.canvassync/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.canvassync
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/CanvasSync.png
+
+Package: com.pkgfiles.canvassync
+Version: 1.0.3
+Section: Tweaks
+Maintainer: pkgFiles
+Architecture: iphoneos-arm64
+Filename: ./debs/iphoneos-arm64/CanvasSync/com.pkgfiles.canvassync_1.0.3_iphoneos-arm64.deb
+Size: 12331520
+MD5sum: 4662e0d41facb5d1eee525e1ca9cb810
+SHA1: 5726ab2749d2a9759b5eafc3f3e2c68505c9cbcf
+SHA256: ae8d9986dbf0a52015545fe9d9e95969adb5109baf7f16943d2455881bc33066
+Description: Display artwork or Spotify Canvas as wallpaper.
+Name: CanvasSync
+Author: pkgFiles
+Depends: dev.theos.orion14, firmware (>= 15.0)
+SileoDepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.canvassync/depiction.json
+Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.canvassync
+Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/CanvasSync.png
+
 Package: com.pkgfiles.harlemshakereborn
 Version: 1.0.1
 Section: Tweaks
