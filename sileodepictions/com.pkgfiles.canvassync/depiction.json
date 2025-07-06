@@ -68,7 +68,7 @@
 				},
 				{
 					"title": "Latest Version",
-					"text": "1.0.3",
+					"text": "1.0.4",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -110,6 +110,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "- Fixed a bug that prevented Canvases from being downloaded when the song also had a video",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 06/07/2025</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.0.3",
 					"useBoldText": true,
