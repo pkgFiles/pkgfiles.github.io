@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.4.1</version>
+		<change>Fixed an issue where Spotify would crash on versions newer than 9.0.66</change>
+	</changes>
+	<changes>
 		<version>1.0.4</version>
 		<change>Fixed a bug that prevented Canvases from being downloaded when the song also had a video</change>
 	</changes>
