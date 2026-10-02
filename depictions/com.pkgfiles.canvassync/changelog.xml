@@ -1,5 +1,23 @@
 <changelog>
 	<changes>
+		<version>2.0.1</version>
+		<change>Fixed crashes on iOS 15</change>
+		<change>Fixed an issue where the canvas never got cleared, if the now playing application has been changed without killing Spotify</change>
+		<change>Fixed some alignment issues for the images in the PreferenceBundle for bigger devices</change>
+		<change>Added a new option in preferences for transitions between changes of artworks or canvases</change>
+		<change>Smaller improvements for the PreferenceBundle</change>
+	</changes>
+	<changes>
+		<version>2.0</version>
+		<change>Added Support for iOS 17 and 18</change>
+		<change>Added Support for RootHide</change>
+		<change>Added Support for newer Spotify Versions (9.1.24+)</change>
+		<change>Fixed some issues in the PreferenceBundle</change>
+		<change>Fixed a issue, where the Device need a Respring after a update for Spotify</change>
+		<change>Refactored the whole codebase for better code quality</change>
+		<change>Refactored everything to support all Spotify Versions since 9.0.0+</change>
+	</changes>
+	<changes>
 		<version>1.0.4.1</version>
 		<change>Fixed an issue where Spotify would crash on versions newer than 9.0.66</change>
 	</changes>
